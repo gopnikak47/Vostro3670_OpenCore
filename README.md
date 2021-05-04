@@ -12,7 +12,8 @@ Dell Vostro 3670 OpenCore EFI (for those who loves Hackintoshes)
 <!-- GETTING STARTED -->
 ## How to use
 
-Just place your SMBIOS in GenSMBIOS in config.plist and then snap OC and use it!
+Place your SMBIOS in GenSMBIOS in config.plist
+Remember to add the Resources folder from https://github.com/acidanthera/OcBinaryData and then snap OC before running, or it'll be error (because I added GUI boot, and I'm pretty lazy to upload it :/)
 
 
 
